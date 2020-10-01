@@ -70,9 +70,10 @@ body{
 	  }
 	  
 	  #centered{
+		  
 		  position:absolute;
 		  top:20%;
-		  left:39%;
+		  left:38%;
 		  transform: translate(-50%,-%50);
 		  color:white;
 		  font-family: 'Anton', sans-serif;
@@ -138,7 +139,7 @@ body{
    }
 	
       .icerik{
-		  width:48%;
+		  width:47%;
 		  height:auto;
 		  display:inline-table;
 		  margin-right: 15px;
@@ -174,3 +175,23 @@ body{
 		  margin:15px;
 		  border-radius:10px;
 	  }
+	  
+	  
+	 .BtnDevam:hover{
+		 opacity:0.8;
+	 }
+	 	  #abone{
+		  width:100%;
+		  border-top-left-radius:10px;
+		  border-top-right-radius:10px;
+		  
+	  }
+	  
+	    #ekle{
+		  width:100%;
+		  border-top-left-radius:10px;
+		  border-top-right-radius:10px;
+	  }
+	  
+	  
+	
