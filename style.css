@@ -5,12 +5,12 @@
 body{
 	margin:0;
 	padding:0;
-	background-color: #dbdbdb;
+	background-image: url(https://cdn.discordapp.com/attachments/791908871111180328/817089321265004554/Buzul_kus_logosu_bosta_739x415_1.png);
 	font-family: 'Concert One', cursive;
 }
 
 #social{
-	background-color:  black;
+	background-color:  #0e81e4;
 	color: white;
 	height: 55px;
 	width: 100%;
@@ -53,7 +53,7 @@ body{
 		  width:100%;
 		  height:250px;
 	      position: relative;
-		  background-color: black;
+		  background-color: #0e81e4;
 		  margin-bottom : 5px;
 		
 	  }
@@ -124,7 +124,7 @@ body{
 	
 	nav li a:hover{
 		color:white;
-		background-color: black;
+		background-image: url(https://cdn.discordapp.com/attachments/791908871111180328/817089321265004554/Buzul_kus_logosu_bosta_739x415_1.png);
 	}
 	
    i{
@@ -203,7 +203,7 @@ body{
 	 footer{
 		 width:100%;
 		 height:75px;
-		 background-color: black;
+		 background-color: #0e81e4;
 		 color:white;
 		 line-height: 75px;
 		 text-align: center;
